@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "ef:blocks/iron_furnace_block"
+   }
+}
