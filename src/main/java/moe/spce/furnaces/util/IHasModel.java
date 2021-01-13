@@ -1,4 +1,4 @@
-package com.eviqnn.extra.furnaces.util;
+package moe.spce.extrafurnaces.util;
 
 public interface IHasModel
 {

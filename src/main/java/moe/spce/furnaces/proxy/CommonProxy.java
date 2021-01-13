@@ -1,4 +1,4 @@
-package com.eviqnn.extra.furnaces.proxy;
+package moe.spce.extrafurnaces.proxy;
 
 import net.minecraft.item.Item;
 

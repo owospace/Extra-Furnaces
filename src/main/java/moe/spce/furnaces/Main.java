@@ -1,7 +1,7 @@
-package com.eviqnn.extra.furnaces;
+package moe.spce.extrafurnaces;
 
-import com.eviqnn.extra.furnaces.proxy.CommonProxy;
-import com.eviqnn.extra.furnaces.util.Reference;
+import moe.spce.extrafurnaces.proxy.CommonProxy;
+import moe.spce.extrafurnaces.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

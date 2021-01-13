@@ -1,4 +1,4 @@
-package com.eviqnn.extra.furnaces.blocks;
+package moe.spce.extrafurnaces.blocks;
 
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;

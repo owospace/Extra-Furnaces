@@ -1,8 +1,8 @@
-package com.eviqnn.extra.furnaces.items;
+package moe.spce.extrafurnaces.items;
 
-import com.eviqnn.extra.furnaces.Main;
-import com.eviqnn.extra.furnaces.init.ModItems;
-import com.eviqnn.extra.furnaces.util.IHasModel;
+import moe.spce.extrafurnaces.Main;
+import moe.spce.extrafurnaces.init.ModItems;
+import moe.spce.extrafurnaces.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

@@ -1,9 +1,9 @@
-package com.eviqnn.extra.furnaces.blocks;
+package moe.spce.extrafurnaces.blocks;
 
-import com.eviqnn.extra.furnaces.Main;
-import com.eviqnn.extra.furnaces.init.ModBlocks;
-import com.eviqnn.extra.furnaces.init.ModItems;
-import com.eviqnn.extra.furnaces.util.IHasModel;
+import moe.spce.extrafurnaces.Main;
+import moe.spce.extrafurnaces.init.ModBlocks;
+import moe.spce.extrafurnaces.init.ModItems;
+import moe.spce.extrafurnaces.util.IHasModel;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

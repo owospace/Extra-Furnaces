@@ -1,10 +1,10 @@
-package com.eviqnn.extra.furnaces.init;
+package moe.spce.extrafurnaces.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.eviqnn.extra.furnaces.blocks.BlockBase;
-import com.eviqnn.extra.furnaces.blocks.IronFurnaceBlock;
+import moe.spce.extrafurnaces.blocks.BlockBase;
+import moe.spce.extrafurnaces.blocks.IronFurnaceBlock;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

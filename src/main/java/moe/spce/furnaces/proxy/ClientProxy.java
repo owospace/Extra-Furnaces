@@ -1,4 +1,4 @@
-package com.eviqnn.extra.furnaces.proxy;
+package moe.spce.extrafurnaces.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

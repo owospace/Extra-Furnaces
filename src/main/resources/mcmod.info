@@ -1,14 +1,14 @@
 [
 {
-  "modid": "ef",
+  "modid": "extrafurnaces",
   "name": "Extra Furnaces",
   "description": "Adds Extra Furnaces to your game!",
   "version": "b1",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["eviqnn"],
-  "credits": "eviqnn",
+  "authorList": ["owospace"],
+  "credits": "owospace",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

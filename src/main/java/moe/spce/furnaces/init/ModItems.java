@@ -1,9 +1,9 @@
-package com.eviqnn.extra.furnaces.init;
+package moe.spce.extrafurnaces.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.eviqnn.extra.furnaces.items.ItemBase;
+import moe.spce.extrafurnaces.items.ItemBase;
 
 import net.minecraft.item.Item;
 

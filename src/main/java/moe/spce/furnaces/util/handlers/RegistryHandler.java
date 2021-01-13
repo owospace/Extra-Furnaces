@@ -1,8 +1,8 @@
-package com.eviqnn.extra.furnaces.util.handlers;
+package moe.spce.extrafurnaces.util.handlers;
 
-import com.eviqnn.extra.furnaces.init.ModBlocks;
-import com.eviqnn.extra.furnaces.init.ModItems;
-import com.eviqnn.extra.furnaces.util.IHasModel;
+import moe.spce.extrafurnaces.init.ModBlocks;
+import moe.spce.extrafurnaces.init.ModItems;
+import moe.spce.extrafurnaces.util.IHasModel;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
